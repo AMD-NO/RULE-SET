@@ -7,3 +7,4 @@ IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
 IP-CIDR,224.0.0.0/4
 IP-CIDR6,fe80::/10
+geoip,cn,no-resolve
