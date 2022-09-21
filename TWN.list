@@ -1,0 +1,85 @@
+# > Bahamut
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+// DOMAIN,gamer-cds.cdn.hinet.net
+// DOMAIN,gamer2-cds.cdn.hinet.net
+
+# > CATCHPLAY+
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN,asiaplay-origin.s3.amazonaws.com
+DOMAIN,tra-ww000-cp.akamaized.net
+DOMAIN,ols-ww000-cp.akamaized.net
+DOMAIN,ols-ww100-cp.akamaized.net
+DOMAIN,dkfhw9rzsr80z.cloudfront.net
+
+# > friDay
+DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,fridaylogger.com
+DOMAIN-SUFFIX,litv.tv
+DOMAIN,aka01p.akamaized.net
+DOMAIN,aka02p.akamaized.net
+
+# > HamiVideo
+DOMAIN-SUFFIX,hinet.net
+
+# > HBO GO
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-KEYWORD,.hbogoasia.
+DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,hboasialive.akamaized.net
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN,players.brightcove.net
+
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kfs.io
+
+# > KKTV
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN,kktv-theater.kk.stream
+DOMAIN,theater-kktv.cdn.hinet.net
+
+# > iQIYI Intl
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,intl.iqiyi.com
+DOMAIN,intl-rcd.iqiyi.com
+DOMAIN,intl-im-hist-api.iqiyi.com
+DOMAIN,intl-subscription.iqiyi.com
+DOMAIN,akmcdnoversea.inter.iqiyi.com
+DOMAIN,akmcdnoversea.inter.ptqy.gitv.tv
+DOMAIN,chuangcachecdnoversea.inter.iqiyi.com
+DOMAIN,chuangcachecdnoversea.inter.ptqy.gitv.tv
+DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
+DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
+DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com
+DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+DOMAIN-KEYWORD,akmcdnoverse
+DOMAIN-KEYWORD,chuangcachecdnoversea
+IP-CIDR,23.40.241.251/32,no-resolve
+IP-CIDR,23.40.242.10/32,no-resolve
+IP-CIDR,110.238.107.47/32,no-resolve
+IP-CIDR,118.26.32.162/32,no-resolve
+IP-CIDR,159.138.102.146/32,no-resolve
+IP-CIDR,203.80.97.208/32,no-resolve
+IP-CIDR,203.198.80.99/32,no-resolve
+
+# > LINE TV
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+
+# > myVideo
+DOMAIN-SUFFIX,myvideo.net.tw
+DOMAIN-SUFFIX,catch.net.tw
+DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net
+DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net
