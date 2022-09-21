@@ -27,9 +27,6 @@ DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 
-# > Paramount+ Ads
-DOMAIN,pubads.g.doubleclick.net
-
 # > Tencent
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
@@ -56,3 +53,20 @@ DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
+
+# > Paramount+ Ads 屏蔽会导致部分视频无法播放
+DOMAIN,pubads.g.doubleclick.net
+
+# > HBO GO 播放域名
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,hboasialive.akamaized.net
+
+# > Setanta 直播域名 回放域名
+DOMAIN,dice-live-eu.akamaized.net
+DOMAIN,dve-streams.akamaized.net
+
+# > Disney+ Star+ 首页海报
+DOMAIN,prod-ripcut-delivery.disney-plus.net
+
+# > infomaniak 邮箱域名
+DOMAIN-SUFFIX,mail.infomaniak.com
