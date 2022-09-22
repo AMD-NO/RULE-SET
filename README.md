@@ -1,3 +1,2 @@
-# RULE-SET
-DivineEngine:Apple
-HotKids:BBC
+# DivineEngine:Apple
+# HotKids:BBC
