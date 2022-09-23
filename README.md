@@ -22,6 +22,7 @@
 - Meta
 - Microsoft
 ### Others
+- Google
 - IPTV
 - LAN
 - NBA
