@@ -6,7 +6,6 @@
 - PayPal
 - Prime Video
 - Spotify
-- TIDAL
 - Telegram
 - Twitter
 - Unbreak
