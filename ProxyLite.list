@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,authy.com
 
 # > Notion
 DOMAIN-SUFFIX,notion.so
+DOMAIN,http-inputs-notion.splunkcloud.com
 
 # > SofaScore
 DOMAIN-SUFFIX,sofascore.com
