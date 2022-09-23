@@ -26,6 +26,7 @@
 - IPTV
 - LAN
 - NBA
+- ProxyLite
 - Setanta
 - Shopee
 - Stan
