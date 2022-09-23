@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazonaws.com
 
+# > TIDAL
+DOMAIN-SUFFIX,tidal.com
+
 # > Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
