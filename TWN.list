@@ -16,25 +16,27 @@ DOMAIN,dkfhw9rzsr80z.cloudfront.net
 DOMAIN-SUFFIX,friday.tw
 DOMAIN-SUFFIX,fridaylogger.com
 DOMAIN-SUFFIX,litv.tv
-DOMAIN,aka01p.akamaized.net
 DOMAIN,aka02p.akamaized.net
+DOMAIN,aka03p.akamaized.net
+DOMAIN,aka10p.akamaized.net
 
 # > HamiVideo
 DOMAIN-SUFFIX,hinet.net
 
 # > HBO GO
 DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.tw
 DOMAIN-KEYWORD,.hbogoasia.
 DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,d5hpy42637ggu.cloudfront.net
 DOMAIN,hboasia1-i.akamaihd.net
 DOMAIN,hboasia2-i.akamaihd.net
 DOMAIN,hboasia3-i.akamaihd.net
 DOMAIN,hboasia4-i.akamaihd.net
 DOMAIN,hboasia5-i.akamaihd.net
 DOMAIN,bcbolthboa-a.akamaihd.net
-DOMAIN,hboasialive.akamaized.net
-DOMAIN,hbogoprod-vod.akamaized.net
+// DOMAIN,hboasialive.akamaized.net
+// DOMAIN,hbogoprod-vod.akamaized.net
 DOMAIN,hbolb.onwardsmg.com
 DOMAIN,hbounify-prod.evergent.com
 DOMAIN,players.brightcove.net
@@ -48,7 +50,7 @@ DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN,kktv-theater.kk.stream
-DOMAIN,theater-kktv.cdn.hinet.net
+// DOMAIN,theater-kktv.cdn.hinet.net
 
 # > iQIYI Intl
 DOMAIN-SUFFIX,iq.com
