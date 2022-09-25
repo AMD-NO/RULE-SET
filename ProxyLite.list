@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,sofascore.app
 # > amazon
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazonaws.com
 
 # > TIDAL
