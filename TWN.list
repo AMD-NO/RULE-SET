@@ -26,20 +26,15 @@ DOMAIN-SUFFIX,hinet.net
 # > HBO GO
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.tw
-DOMAIN-KEYWORD,.hbogoasia.
+DOMAIN-KEYWORD,hbogoasia
+DOMAIN-KEYWORD,hboasia
 DOMAIN,dai3fd1oh325y.cloudfront.net
 DOMAIN,d5hpy42637ggu.cloudfront.net
-DOMAIN,hboasia1-i.akamaihd.net
-DOMAIN,hboasia2-i.akamaihd.net
-DOMAIN,hboasia3-i.akamaihd.net
-DOMAIN,hboasia4-i.akamaihd.net
-DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbounify-prod.evergent.com
 DOMAIN,bcbolthboa-a.akamaihd.net
 // DOMAIN,hboasialive.akamaized.net
 // DOMAIN,hbogoprod-vod.akamaized.net
-DOMAIN,hbolb.onwardsmg.com
-DOMAIN,hbounify-prod.evergent.com
-DOMAIN,players.brightcove.net
 
 # > KKBOX
 DOMAIN-SUFFIX,kkbox.com
