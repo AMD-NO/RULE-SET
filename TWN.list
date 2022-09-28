@@ -7,10 +7,7 @@ DOMAIN-SUFFIX,gamer.com.tw
 
 # > CATCHPLAY+
 DOMAIN-SUFFIX,catchplay.com
-DOMAIN,asiaplay-origin.s3.amazonaws.com
-DOMAIN,tra-ww000-cp.akamaized.net
-DOMAIN,ols-ww000-cp.akamaized.net
-DOMAIN,ols-ww100-cp.akamaized.net
+DOMAIN-KEYWORD,-cp.akamaized.net
 DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
 # > friDay
@@ -74,10 +71,13 @@ IP-CIDR,203.198.80.99/32,no-resolve
 
 # > LINE TV
 DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,line-scdn.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 
 # > myVideo
 DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN-SUFFIX,catch.net.tw
-DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net
-DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net
+
+# > Taiwan
+DOMAIN-SUFFIX,com.tw
+// DOMAIN-SUFFIX,tw
