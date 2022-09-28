@@ -1,13 +1,11 @@
 # > NBA
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,easelive.tv
-DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,neulion.com
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN,dpm.demdex.net
 DOMAIN,watchnba.cdnfastly.endeavorstreaming.net
 DOMAIN,shield-twoproxy.imggaming.com
-// akamai 内容分发网络流量
+// akamai CDN
 DOMAIN,nbadsdmt.akamaized.net
 DOMAIN,lion-nba-msl.akamaized.net
 DOMAIN,nlnbamdnyc-a.akamaihd.net
