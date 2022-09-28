@@ -34,6 +34,10 @@ DOMAIN-SUFFIX,ssl-images-amazon.com
 // DOMAIN-SUFFIX,cloudfront.net
 IP-ASN,16509
 
+# > bet365
+DOMAIN-SUFFIX,bet365.com
+DOMAIN-SUFFIX,365lpodds.com
+
 # > TIDAL
 DOMAIN-SUFFIX,tidal.com
 
