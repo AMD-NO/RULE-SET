@@ -1,16 +1,14 @@
 # > Crunchyroll
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,vrv.co
+DOMAIN,prod.gccrunchyroll.com
 
 # > Discovery+ US
 DOMAIN-SUFFIX,discoveryplus.com
-DOMAIN,us1-prod.disco-api.com
-DOMAIN,us1-prod-images.disco-api.com
-DOMAIN,4unal8ngvngjm07lj2q2umlc4.litix.io
-DOMAIN-KEYWORD,ur-discovery1.uplynk.com
-// DOMAIN,go-prod-vz.akamaized.net
+DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,dnitv.com
-DOMAIN,kvinit-prod.api.kochava.com
+// DOMAIN,go-prod-vz.akamaized.net
+DOMAIN-KEYWORD,ur-discovery1.uplynk.com
 
 # > ESPN
 DOMAIN-SUFFIX,espn.com
@@ -27,9 +25,8 @@ DOMAIN-SUFFIX,hbomaxcdn.com
 
 # > Hulu
 DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,hulu.tv
-DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,huluim.com
 DOMAIN,cws-hulu.conviva.com
 // DOMAIN,assetshuluimcom-a.akamaihd.net
 
@@ -38,21 +35,20 @@ DOMAIN-SUFFIX,pbs.org
 
 # > Paramount+
 DOMAIN-SUFFIX,cbsi.com
-// DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,pplusstatic.com
-// DOMAIN-SUFFIX,mtvnservices.com
-// DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN,thumbnails.cbsig.net
 DOMAIN,link.theplatform.com
-DOMAIN,cbsi.live.ott.irdeto.com
-// DOMAIN,thumbnails.cbsig.net
-// DOMAIN,cbsinteractive.hb.omtrdc.net
-// DOMAIN,ads.play.cbsi.video
-// DOMAIN,cbsnews.akamaized.net
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsi.live.ott.irdeto.com
+// DOMAIN,cbsnews.akamaized.net
+// DOMAIN,ads.play.cbsi.video
 // DOMAIN,pubads.g.doubleclick.net
+DOMAIN-SUFFIX,cws.conviva.com
 
 # > Peacock
 DOMAIN-SUFFIX,peacocktv.com
