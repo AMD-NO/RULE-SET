@@ -32,7 +32,7 @@
 - Stan
 
 | DivineEngine | HotKids | ACL4SSR   | Others   |
-| ------------ | ------- | ---- ---  | ------   |
+| ------------ | ------- | -------   | ------   |
 | Apple        | BBC     | Meta      | Google |
 | Blocking     | DAZN    | Microsoft | IPTV |
 | Disney+      | JPN     |           | LAN |
