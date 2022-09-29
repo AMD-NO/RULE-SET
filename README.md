@@ -1,6 +1,6 @@
 ### DivineEngine
 > Apple
-- Blocking
+> Blocking
 - Disney+
 - Netflix
 - PayPal
