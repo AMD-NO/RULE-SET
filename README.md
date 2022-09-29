@@ -31,7 +31,7 @@
 - Shopee
 - Stan
 
-| DivineEngine | HotKids | ACL4SSR |
+| DivineEngine | HotKids | ACL4SSR | Others |
 | ---- | ---- | ---- | ---- |
 | 单元格 | 单元格 | 777 | 77 |
 | 单元格 | 单元格 | 77 | 77 |
