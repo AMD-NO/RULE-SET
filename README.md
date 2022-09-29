@@ -31,7 +31,16 @@
 - Shopee
 - Stan
 
-| DivineEngine | HotKids | ACL4SSR | Others |
-| ---- | ---- | ---- | ---- |
-| 单元格 | 单元格 | 777 | 77 |
-| 单元格 | 单元格 | 77 | 77 |
+| DivineEngine | HotKids | ACL4SSR   | Others   |
+| ------------ | ------- | ---- ---  | ------   |
+| Apple        | BBC     | Meta      | Google |
+| Blocking     | DAZN    | Microsoft | IPTV |
+| Disney+      | JPN     |           | LAN |
+| Netflix      | Star+   |           | NBA |
+| PayPal       | TWN     |           | ProxyLite |
+| Prime Video  | USA     |           |  Setanta|
+| Spotify      |         |           | Shopee |
+| Telegram     |         |           |  Stan|
+| Twitter      |         |  |  |
+| Unbreak      |         |  |  |
+| YouTube      |         |  |  |
