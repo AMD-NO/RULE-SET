@@ -1,5 +1,5 @@
 ### DivineEngine
-- Apple
+> Apple
 - Blocking
 - Disney+
 - Netflix
