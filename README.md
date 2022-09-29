@@ -32,7 +32,7 @@
 - Stan
 
 | DivineEngine | HotKids | ACL4SSR   | Others   |
-| ------------ | ------- | -------   | ------   |
+| :----------- | :------ | :-------- | :------- |
 | Apple        | BBC     | Meta      | Google |
 | Blocking     | DAZN    | Microsoft | IPTV |
 | Disney+      | JPN     |           | LAN |
@@ -41,6 +41,6 @@
 | Prime Video  | USA     |           |  Setanta|
 | Spotify      |         |           | Shopee |
 | Telegram     |         |           |  Stan|
-| Twitter      |         |  |  |
-| Unbreak      |         |  |  |
-| YouTube      |         |  |  |
+| Twitter      |         |           |  |
+| Unbreak      |         |           |  |
+| YouTube      |         |           |  |
