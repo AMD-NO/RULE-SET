@@ -1,18 +1,4 @@
 # > NBA
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,easelive.tv
-DOMAIN-SUFFIX,neulion.com
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN,watchnba.cdnfastly.endeavorstreaming.net
-DOMAIN,shield-twoproxy.imggaming.com
-// akamai CDN
-DOMAIN,nbadsdmt.akamaized.net
-DOMAIN,lion-nba-msl.akamaized.net
-DOMAIN,nlnbamdnyc-a.akamaihd.net
-DOMAIN,neulionnbaovod-a.akamaihd.net
-DOMAIN,neulion-a.akamaihd.net
-DOMAIN,neuclnbavodns.akamaized.net
-DOMAIN,neulionqos-a.akamaihd.net
-DOMAIN,nbanlds19vod.akamaized.net
-DOMAIN,nbanlds18vod.akamaized.net
-DOMAIN,nbanlds360live.akamaized.net
+DOMAIN,nbalpng.akamaized.net
