@@ -48,6 +48,7 @@ DOMAIN,kktv-theater.kk.stream
 # > iQIYI Intl
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,intl.iqiyi.com
+DOMAIN,msg-intl.qy.net
 DOMAIN,intl-rcd.iqiyi.com
 DOMAIN,intl-im-hist-api.iqiyi.com
 DOMAIN,intl-subscription.iqiyi.com
