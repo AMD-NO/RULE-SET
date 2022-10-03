@@ -1,7 +1,5 @@
 # > Microsoft Services
 # https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Microsoft.list
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
@@ -22,6 +20,8 @@ DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,microsoft.com
+// DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,msappproxy.net
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msauthimages.net
@@ -43,7 +43,6 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,officeppe.net
-DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
@@ -51,7 +50,6 @@ DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,outlookmobile.com
 DOMAIN-SUFFIX,phonefactor.net
-DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.com
@@ -76,3 +74,7 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,microsoft
+// IP-ASN,8068
+IP-ASN,8075
