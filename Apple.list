@@ -15,7 +15,4 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-KEYWORD,apple.com.akadns.net
-DOMAIN-KEYWORD,apple.com.edgekey.net
-DOMAIN-KEYWORD,apple-support.akadns.net
-DOMAIN-KEYWORD,icloud.com.akadns.net
+DOMAIN-KEYWORD,apple.com
