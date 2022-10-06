@@ -56,13 +56,13 @@ DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.office365.com
 
 # > Windows Server Update Services
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
-DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
+DOMAIN,download.microsoft.com
 DOMAIN,ntservicepack.microsoft.com
+DOMAIN,dl.delivery.mp.microsoft.com
 
 # > Paramount+ Ads 屏蔽会导致部分视频无法播放
 DOMAIN,pubads.g.doubleclick.net
