@@ -7,8 +7,8 @@ DOMAIN,prod.gccrunchyroll.com
 DOMAIN-SUFFIX,discoveryplus.com
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,dnitv.com
-// DOMAIN,go-prod-vz.akamaized.net
-DOMAIN-KEYWORD,ur-discovery1.uplynk.com
+DOMAIN,dplus-us-gcs-prod-vod.akamaized.net
+DOMAIN-KEYWORD,dplus-northamerica
 
 # > ESPN
 DOMAIN-SUFFIX,espn.com
@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,huluim.com
-DOMAIN,cws-hulu.conviva.com
 // DOMAIN,assetshuluimcom-a.akamaihd.net
 
 # > PBS
