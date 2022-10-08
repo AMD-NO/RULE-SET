@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 // DOMAIN-SUFFIX,cloudfront.net
+IP-ASN,14618
 IP-ASN,16509
 
 # > bet365
