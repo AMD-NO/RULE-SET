@@ -141,8 +141,8 @@ IP-ASN,24429 // 浙江淘宝网络有限公司
 IP-ASN,24430 // 中国国家邮政局
 IP-ASN,24444 // 山东移动通信有限公司
 IP-ASN,24445 // 河南移动通信有限公司
-IP-ASN,24489 // Trans-Eurasia Information Network (TEIN2) - North
-IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
+IP-ASN,24489 // 第二代跨欧亚信息网络 North
+IP-ASN,24490 // 第二代跨欧亚信息网络 SG
 IP-ASN,24495 // 国安创想通信技术有限公司
 IP-ASN,24547 // 河北移动通信有限公司
 IP-ASN,24575 // 清华大学实验室
@@ -361,7 +361,7 @@ IP-ASN,131495 // 北京九云无限网络科技有限公司
 IP-ASN,131497 // 大众汽车（中国）投资有限公司
 IP-ASN,131506 // 中国广电黑龙江网络股份有限公司
 IP-ASN,131512 // CNIX-NETWORKS
-IP-ASN,131516 // Jinhua Weian InfoTech Co., Ltd
+IP-ASN,131516 // Jinhua Weian InfoTech
 IP-ASN,131519 // 海信
 IP-ASN,131521 // 海通证券股份有限公司
 IP-ASN,131524 // SHPJNET
@@ -560,7 +560,7 @@ IP-ASN,139118 // 上海如谷信息科技有限公司
 IP-ASN,139136 // 浙江新型互联网交换中心有限责任公司
 IP-ASN,139138 // 国付宝信息科技有限公司
 IP-ASN,139139 // 沈阳农业大学
-IP-ASN,139141 // Yusys Financial Cloud
+IP-ASN,139141 // 宇信金融云
 IP-ASN,139154 // 山东省大数据中心
 IP-ASN,139157 // 北京东方国信科技股份有限公司
 IP-ASN,139161 // 新疆维吾尔自治区农村信用社联合社
@@ -774,7 +774,7 @@ IP-ASN,146812 // 德意志银行（中国）有限公司上海分行
 IP-ASN,146814 // 香港科技大学（广州）
 IP-ASN,146822 // 深圳众云数据技术有限公司
 IP-ASN,146834 // 四川迅游网络科技有限公司
-IP-ASN,146842 // ChinaDataCom Corporation Limited
+IP-ASN,146842 // 中数通信息有限公司
 IP-ASN,146845 // 上海龙晶科技有限公司
 IP-ASN,146966 // 中国电信
 IP-ASN,147008 // 深圳店匠科技有限公司
