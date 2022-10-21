@@ -1,18 +1,7 @@
 # > General
 DOMAIN,app.adjust.com
-DOMAIN,app.appsflyer.com
-DOMAIN,bdtj.tagtic.cn
-
-# > Alibaba
-DOMAIN,log.mmstat.com
-DOMAIN,sycm.mmstat.com
-
-# > China Area Network
 DOMAIN-SUFFIX,flyert.com
-DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
-DOMAIN,download.jetbrains.com
-DOMAIN,origin-a.akamaihd.net
 
 # > Google
 DOMAIN-SUFFIX,blog.google
@@ -42,13 +31,6 @@ DOMAIN,vi.l.qq.com
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.238.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
-
-# > Strava
-DOMAIN,analytics.strava.com
-
-# > Umeng
-DOMAIN,msg.umeng.com
-DOMAIN,msg.umengcloud.com
 
 # > Outlook
 DOMAIN,outlook.office365.com
