@@ -4,24 +4,11 @@ DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,snapdrop.net
 
 # > Google
-DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
-// DOMAIN,translate.googleapis.com
-
-# > Firebase Cloud Messaging
-// DOMAIN,mtalk.google.com
-// DOMAIN,alt1-mtalk.google.com
-// DOMAIN,alt2-mtalk.google.com
-// DOMAIN,alt3-mtalk.google.com
-// DOMAIN,alt4-mtalk.google.com
-// DOMAIN,alt5-mtalk.google.com
-// DOMAIN,alt6-mtalk.google.com
-// DOMAIN,alt7-mtalk.google.com
-// DOMAIN,alt8-mtalk.google.com
 
 # > Tencent
 DOMAIN,fairplay.l.qq.com
@@ -51,6 +38,9 @@ DOMAIN,pubads.g.doubleclick.net
 
 # > Bahamut 播放域名
 DOMAIN,bahamut.akamaized.net
+
+# > NBA League Pass 播放域名
+DOMAIN,nbalpng.akamaized.net
 
 # > HBO GO 播放域名
 DOMAIN,hbogoprod-vod.akamaized.net
