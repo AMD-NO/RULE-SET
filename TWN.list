@@ -74,5 +74,5 @@ DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN-SUFFIX,catch.net.tw
 
 # > Taiwan
-DOMAIN-SUFFIX,com.tw
-// DOMAIN-SUFFIX,tw
+// DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,tw
