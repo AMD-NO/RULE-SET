@@ -1,9 +1,10 @@
 # > BBC iPlayer
 DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,bbc.co.uk
-DOMAIN-SUFFIX,bbci.co.uk
+// DOMAIN-SUFFIX,bbc.co.uk
+// DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,bbcfmt
-DOMAIN-SUFFIX,co.uk
+
+# > Britain
+// DOMAIN-SUFFIX,co.uk
 DOMAIN-SUFFIX,uk
-DOMAIN,bbcios.2cnt.net
