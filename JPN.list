@@ -30,6 +30,6 @@ DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,nxtv.jp
 
 # > Japan
-DOMAIN-SUFFIX,co.jp
-DOMAIN-SUFFIX,ne.jp
+// DOMAIN-SUFFIX,co.jp
+// DOMAIN-SUFFIX,ne.jp
 DOMAIN-SUFFIX,jp
