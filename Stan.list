@@ -1,6 +1,12 @@
 # > Stan
 DOMAIN-SUFFIX,stan.video
-DOMAIN-SUFFIX,stan.com.au
+// DOMAIN-SUFFIX,stan.com.au
 DOMAIN-KEYWORD,stan.akamaized.net
 DOMAIN,streamcoimg-a.akamaihd.net
-DOMAIN-SUFFIX,com.au
+
+# > 9Now
+DOMAIN-KEYWORD,9now-live
+
+# > Australia
+// DOMAIN-SUFFIX,com.au
+DOMAIN-SUFFIX,au
