@@ -1,0 +1,79 @@
+payload:
+# > Bahamut
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,gamer.com.tw
+  # DOMAIN,bahamut.akamaized.net
+  # DOMAIN,gamer-cds.cdn.hinet.net
+  # DOMAIN,gamer2-cds.cdn.hinet.net
+
+# > CATCHPLAY+
+  - DOMAIN-SUFFIX,catchplay.com
+  - DOMAIN-KEYWORD,-cp.akamaized.net
+  - DOMAIN,dkfhw9rzsr80z.cloudfront.net
+
+# > friDay
+  - DOMAIN-SUFFIX,friday.tw
+  - DOMAIN-SUFFIX,fridaylogger.com
+  - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN,aka02p.akamaized.net
+  - DOMAIN,aka03p.akamaized.net
+  - DOMAIN,aka10p.akamaized.net
+
+# > HamiVideo
+  - DOMAIN-SUFFIX,hinet.net
+
+# > HBO GO
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,hbogoasia.tw
+  - DOMAIN-KEYWORD,hbogoasia
+  - DOMAIN-KEYWORD,hboasia
+  - DOMAIN,dai3fd1oh325y.cloudfront.net
+  - DOMAIN,d5hpy42637ggu.cloudfront.net
+  - DOMAIN,hbolb.onwardsmg.com
+  - DOMAIN,hbounify-prod.evergent.com
+  - DOMAIN,bcbolthboa-a.akamaihd.net
+  # DOMAIN,hboasialive.akamaized.net
+  # DOMAIN,hbogoprod-vod.akamaized.net
+
+# > KKBOX
+  - DOMAIN-SUFFIX,kkbox.com
+  - DOMAIN-SUFFIX,kkbox.com.tw
+  - DOMAIN-SUFFIX,kfs.io
+
+# > KKTV
+  - DOMAIN-SUFFIX,kktv.me
+  - DOMAIN-SUFFIX,kktv.com.tw
+  - DOMAIN,kktv-theater.kk.stream
+  # DOMAIN,theater-kktv.cdn.hinet.net
+
+# > iQIYI Intl
+  - DOMAIN-SUFFIX,iq.com
+  - DOMAIN-SUFFIX,intl.iqiyi.com
+  - DOMAIN,msg-intl.qy.net
+  - DOMAIN,intl-rcd.iqiyi.com
+  - DOMAIN,intl-im-hist-api.iqiyi.com
+  - DOMAIN,intl-subscription.iqiyi.com
+  # DOMAIN-SUFFIX,inter.iqiyi.com
+  # DOMAIN-SUFFIX,inter.ptqy.gitv.tv
+  - DOMAIN-KEYWORD,akmcdnoversea
+  - DOMAIN-KEYWORD,chuangcachecdnoversea
+  - IP-CIDR,23.40.241.251/32,no-resolve
+  - IP-CIDR,23.40.242.10/32,no-resolve
+  - IP-CIDR,110.238.107.47/32,no-resolve
+  - IP-CIDR,118.26.32.162/32,no-resolve
+  - IP-CIDR,159.138.102.146/32,no-resolve
+  - IP-CIDR,203.80.97.208/32,no-resolve
+  - IP-CIDR,203.198.80.99/32,no-resolve
+
+# > LINE TV
+  - DOMAIN-SUFFIX,linetv.tw
+  - DOMAIN-SUFFIX,line-scdn.net
+  - DOMAIN,d3c7rimkq79yfu.cloudfront.net
+
+# > myVideo
+  - DOMAIN-SUFFIX,myvideo.net.tw
+  - DOMAIN-SUFFIX,catch.net.tw
+
+# > Taiwan
+  # DOMAIN-SUFFIX,com.tw
+  - DOMAIN-SUFFIX,tw
