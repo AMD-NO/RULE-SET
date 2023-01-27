@@ -1,0 +1,10 @@
+payload:
+# > Star+
+  - DOMAINN-SUFFIX,starplus.com
+  - DOMAINN-SUFFIX,media.starott.com
+  - DOMAINN,star.api.edge.bamgrid.com
+  - DOMAINN,star.connections.edge.bamgrid.com
+  - DOMAINN,star.content.edge.bamgrid.com
+  - DOMAINN,star.playback.edge.bamgrid.com
+  # 此条与 Disney+ 共用，主要是加载海报，可注释
+  # DOMAINN,prod-ripcut-delivery.disney-plus.net
