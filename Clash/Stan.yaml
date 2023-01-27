@@ -1,0 +1,14 @@
+payload:
+# > Stan
+  - DOMAIN-SUFFIX,stan.video
+  # DOMAIN-SUFFIX,stan.com.au
+  - DOMAIN-KEYWORD,stan.akamaized.net
+  - DOMAIN,streamcoimg-a.akamaihd.net
+
+# > 9Now
+  - DOMAIN-KEYWORD,9now-live
+  - DOMAIN,p-9now.akamaized.net
+
+# > Australia
+  # DOMAIN-SUFFIX,com.au
+  - DOMAIN-SUFFIX,au
