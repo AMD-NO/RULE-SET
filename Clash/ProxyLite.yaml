@@ -1,0 +1,128 @@
+payload:
+# > Spotify
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-KEYWORD,spotify.com
+  - DOMAIN-KEYWORD,spotify-com
+
+# > PayPal
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypal-mktg.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+
+# > Facebook
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,fbcdn.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fbsbx.com
+  - DOMAIN-SUFFIX,messenger.com
+  - IP-ASN,32934
+
+# > Instagram
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagr.am
+
+# > Twitter
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,vine.co
+
+# > Google
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,google
+  # DOMAIN-SUFFIX,gstatic.com
+  # DOMAIN-SUFFIX,gvt0.com
+  # DOMAIN-SUFFIX,gvt1.com
+  # DOMAIN-SUFFIX,gvt2.com
+  # DOMAIN-SUFFIX,gvt3.com
+  - IP-ASN,15169
+  - IP-ASN,396982
+
+# > Github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+
+# > pixiv
+  - DOMAIN-SUFFIX,pixiv.org
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pximg.net
+
+# > V2EX
+  - DOMAIN-SUFFIX,v2ex.com
+
+# > Adobe
+  - DOMAIN-SUFFIX,demdex.net
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,newrelic.com
+  - DOMAIN-SUFFIX,omtrdc.net
+
+# > Authy
+  - DOMAIN-SUFFIX,authy.com
+
+# > Notion
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN,http-inputs-notion.splunkcloud.com
+
+# > SofaScore
+  - DOMAIN-SUFFIX,sofascore.com
+  - DOMAIN-SUFFIX,sofascore.app
+
+# > amazon
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,amazon.co.uk
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
+  # DOMAIN-SUFFIX,cloudfront.net
+  - IP-ASN,14618
+  - IP-ASN,16509
+
+# > bet365
+  - DOMAIN-SUFFIX,bet365.com
+  - DOMAIN-SUFFIX,365lpodds.com
+
+# > TIDAL
+  - DOMAIN-SUFFIX,tidal.com
+
+# > Quantumult X
+  - DOMAIN-SUFFIX,quantumult.app
+
+# > Reddit
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN,reddit.report-uri.com
+
+# > Wikimedia Foundation
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikibooks.org
+  - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikileaks.org
+  - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikiversity.org
+  - DOMAIN-SUFFIX,wikivoyage.org
+  - DOMAIN-SUFFIX,wiktionary.org
+  - DOMAIN-SUFFIX,wikimediafoundation.org
+  - DOMAIN-SUFFIX,mediawiki.org
