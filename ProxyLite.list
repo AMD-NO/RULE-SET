@@ -32,11 +32,10 @@ DOMAIN-SUFFIX,sofascore.app
 
 # > amazon
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN-SUFFIX,amazon.co.uk
+// DOMAIN-SUFFIX,amazon.co.jp
+// DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-KEYWORD,-amazon.com
 // DOMAIN-SUFFIX,cloudfront.net
 IP-ASN,14618
 IP-ASN,16509
