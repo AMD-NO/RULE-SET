@@ -37,7 +37,7 @@ DOMAIN,dl.delivery.mp.microsoft.com
 DOMAIN,pubads.g.doubleclick.net
 
 # Bahamut 播放域名
-DOMAIN,bahamut.akamaized.net
+# DOMAIN,bahamut.akamaized.net
 
 # NBA League Pass 播放域名
 # DOMAIN,nbalpng.akamaized.net
