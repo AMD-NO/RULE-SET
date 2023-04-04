@@ -1,30 +1,30 @@
 payload:
-# > Bahamut
-  - DOMAIN-SUFFIX,bahamut.com.tw
-  - DOMAIN-SUFFIX,gamer.com.tw
-  # DOMAIN,bahamut.akamaized.net
+  # Bahamut
+  # DOMAIN-SUFFIX,bahamut.com.tw
+  # DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN,bahamut.akamaized.net
   # DOMAIN,gamer-cds.cdn.hinet.net
   # DOMAIN,gamer2-cds.cdn.hinet.net
 
-# > CATCHPLAY+
+  # CATCHPLAY+
   - DOMAIN-SUFFIX,catchplay.com
   - DOMAIN-KEYWORD,-cp.akamaized.net
   - DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
-# > friDay
-  - DOMAIN-SUFFIX,friday.tw
+  # friDay
+  # DOMAIN-SUFFIX,friday.tw
   - DOMAIN-SUFFIX,fridaylogger.com
   - DOMAIN-SUFFIX,litv.tv
   - DOMAIN,aka02p.akamaized.net
   - DOMAIN,aka03p.akamaized.net
   - DOMAIN,aka10p.akamaized.net
 
-# > HamiVideo
+  # HamiVideo
   - DOMAIN-SUFFIX,hinet.net
 
-# > HBO GO
-  - DOMAIN-SUFFIX,hbogoasia.com
-  - DOMAIN-SUFFIX,hbogoasia.tw
+  # HBO GO
+  # DOMAIN-SUFFIX,hbogoasia.com
+  # DOMAIN-SUFFIX,hbogoasia.tw
   - DOMAIN-KEYWORD,hbogoasia
   - DOMAIN-KEYWORD,hboasia
   - DOMAIN,dai3fd1oh325y.cloudfront.net
@@ -32,21 +32,21 @@ payload:
   - DOMAIN,hbolb.onwardsmg.com
   - DOMAIN,hbounify-prod.evergent.com
   - DOMAIN,bcbolthboa-a.akamaihd.net
-  # DOMAIN,hboasialive.akamaized.net
-  # DOMAIN,hbogoprod-vod.akamaized.net
+  - DOMAIN,hboasialive.akamaized.net
+  - DOMAIN,hbogoprod-vod.akamaized.net
 
-# > KKBOX
+  # KKBOX
   - DOMAIN-SUFFIX,kkbox.com
-  - DOMAIN-SUFFIX,kkbox.com.tw
+  # DOMAIN-SUFFIX,kkbox.com.tw
   - DOMAIN-SUFFIX,kfs.io
 
-# > KKTV
+  # KKTV
   - DOMAIN-SUFFIX,kktv.me
-  - DOMAIN-SUFFIX,kktv.com.tw
-  - DOMAIN,kktv-theater.kk.stream
+  # DOMAIN-SUFFIX,kktv.com.tw
+  - DOMAIN-SUFFIX,kk.stream
   # DOMAIN,theater-kktv.cdn.hinet.net
 
-# > iQIYI Intl
+  # iQIYI Intl
   - DOMAIN-SUFFIX,iq.com
   - DOMAIN-SUFFIX,intl.iqiyi.com
   - DOMAIN,msg-intl.qy.net
@@ -65,15 +65,15 @@ payload:
   - IP-CIDR,203.80.97.208/32,no-resolve
   - IP-CIDR,203.198.80.99/32,no-resolve
 
-# > LINE TV
-  - DOMAIN-SUFFIX,linetv.tw
+  # LINE TV
+  # DOMAIN-SUFFIX,linetv.tw
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net
 
-# > myVideo
-  - DOMAIN-SUFFIX,myvideo.net.tw
-  - DOMAIN-SUFFIX,catch.net.tw
+  # myVideo
+  # DOMAIN-SUFFIX,myvideo.net.tw
+  # DOMAIN-SUFFIX,catch.net.tw
 
-# > Taiwan
+  # Taiwan
   # DOMAIN-SUFFIX,com.tw
   - DOMAIN-SUFFIX,tw
