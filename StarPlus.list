@@ -1,9 +1,7 @@
-# > Star+
+# Star+
 DOMAIN-SUFFIX,starplus.com
-DOMAIN-SUFFIX,media.starott.com
+DOMAIN-SUFFIX,starott.com
 DOMAIN,star.api.edge.bamgrid.com
 DOMAIN,star.connections.edge.bamgrid.com
 DOMAIN,star.content.edge.bamgrid.com
 DOMAIN,star.playback.edge.bamgrid.com
-// 此条与 Disney+ 共用，主要是加载海报，可注释
-// DOMAIN,prod-ripcut-delivery.disney-plus.net
