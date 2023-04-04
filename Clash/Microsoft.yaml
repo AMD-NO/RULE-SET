@@ -1,5 +1,5 @@
 payload:
-# > Microsoft Services
+  # Microsoft Services
   # https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Microsoft.list
   - DOMAIN-SUFFIX,aadrm.com
   - DOMAIN-SUFFIX,acompli.com
@@ -77,5 +77,5 @@ payload:
   - DOMAIN-SUFFIX,yammerusercontent.com
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
-  # IP-ASN,8068
+  - IP-ASN,8068
   - IP-ASN,8075
