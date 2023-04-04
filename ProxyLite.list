@@ -1,63 +1,63 @@
-# > Github
+# Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 
-# > pixiv
+# pixiv
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 
-# > V2EX
+# V2EX
 DOMAIN-SUFFIX,v2ex.com
 
-# > Adobe
+# Adobe
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omtrdc.net
 
-# > Authy
+# Authy
 DOMAIN-SUFFIX,authy.com
 
-# > Notion
+# Notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN,http-inputs-notion.splunkcloud.com
 
-# > SofaScore
+# SofaScore
 DOMAIN-SUFFIX,sofascore.com
 DOMAIN-SUFFIX,sofascore.app
 
-# > amazon
+# Amazon
 DOMAIN-SUFFIX,amazon.com
-// DOMAIN-SUFFIX,amazon.co.jp
-// DOMAIN-SUFFIX,amazon.co.uk
+# DOMAIN-SUFFIX,amazon.co.jp
+# DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-KEYWORD,-amazon.com
-// DOMAIN-SUFFIX,cloudfront.net
+# DOMAIN-SUFFIX,cloudfront.net
 IP-ASN,14618
 IP-ASN,16509
 
-# > bet365
+# bet365
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,365lpodds.com
 
-# > TIDAL
+# TIDAL
 DOMAIN-SUFFIX,tidal.com
 
-# > Quantumult X
+# Quantumult X
 DOMAIN-SUFFIX,quantumult.app
 
-# > Reddit
+# Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN,reddit.report-uri.com
 
-# > Wikimedia Foundation
+# Wikimedia Foundation
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
