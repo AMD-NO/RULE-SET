@@ -1,5 +1,5 @@
 payload:
-# > Spotify
+  # Spotify
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spotify.com
@@ -8,13 +8,13 @@ payload:
   - DOMAIN-KEYWORD,spotify.com
   - DOMAIN-KEYWORD,spotify-com
 
-# > PayPal
+  # PayPal
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypal.me
   - DOMAIN-SUFFIX,paypal-mktg.com
   - DOMAIN-SUFFIX,paypalobjects.com
-
-# > Facebook
+  
+  # Facebook
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.net
   - DOMAIN-SUFFIX,fb.com
@@ -25,12 +25,12 @@ payload:
   - DOMAIN-SUFFIX,messenger.com
   - IP-ASN,32934
 
-# > Instagram
+  # Instagram
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,instagr.am
 
-# > Twitter
+  # Twitter
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,t.co
@@ -39,7 +39,7 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,vine.co
 
-# > Google
+  # Google
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleusercontent.com
@@ -52,39 +52,39 @@ payload:
   - IP-ASN,15169
   - IP-ASN,396982
 
-# > Github
+  # Github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubusercontent.com
 
-# > pixiv
+  # pixiv
   - DOMAIN-SUFFIX,pixiv.org
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pximg.net
 
-# > V2EX
+  # V2EX
   - DOMAIN-SUFFIX,v2ex.com
 
-# > Adobe
+  # Adobe
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omtrdc.net
 
-# > Authy
+  # Authy
   - DOMAIN-SUFFIX,authy.com
 
-# > Notion
+  # Notion
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN,http-inputs-notion.splunkcloud.com
 
-# > SofaScore
+  # SofaScore
   - DOMAIN-SUFFIX,sofascore.com
   - DOMAIN-SUFFIX,sofascore.app
 
-# > amazon
+  # Amazon
   - DOMAIN-SUFFIX,amazon.com
   # DOMAIN-SUFFIX,amazon.co.jp
   # DOMAIN-SUFFIX,amazon.co.uk
@@ -94,24 +94,24 @@ payload:
   - IP-ASN,14618
   - IP-ASN,16509
 
-# > bet365
+  # bet365
   - DOMAIN-SUFFIX,bet365.com
   - DOMAIN-SUFFIX,365lpodds.com
 
-# > TIDAL
+  # TIDAL
   - DOMAIN-SUFFIX,tidal.com
 
-# > Quantumult X
+  # Quantumult X
   - DOMAIN-SUFFIX,quantumult.app
 
-# > Reddit
+  # Reddit
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN,reddit.report-uri.com
 
-# > Wikimedia Foundation
+  # Wikimedia Foundation
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,wikibooks.org
   - DOMAIN-SUFFIX,wikidata.org
