@@ -1,4 +1,4 @@
- payload: 
+payload: 
   # Advertising
   - DOMAIN-KEYWORD,adservice
   - DOMAIN,app-measurement.com
