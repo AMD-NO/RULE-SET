@@ -1,4 +1,4 @@
-# > Facebook
+# Facebook
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fb.com
@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,messenger.com
 IP-ASN,32934
 
-# > Instagram
+# Instagram
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
