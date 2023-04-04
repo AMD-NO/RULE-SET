@@ -1,5 +1,5 @@
 payload:
-# > Eurosport
+  # Eurosport
   - DOMAIN-KEYWORD,eurosport
   - DOMAIN,eu3-prod.disco-api.com
   - DOMAIN,eu3-prod-images.disco-api.com
