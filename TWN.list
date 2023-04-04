@@ -1,7 +1,7 @@
 # Bahamut
 # DOMAIN-SUFFIX,bahamut.com.tw
 # DOMAIN-SUFFIX,gamer.com.tw
-# DOMAIN,bahamut.akamaized.net
+DOMAIN,bahamut.akamaized.net
 # DOMAIN,gamer-cds.cdn.hinet.net
 # DOMAIN,gamer2-cds.cdn.hinet.net
 
@@ -65,7 +65,7 @@ IP-CIDR,203.80.97.208/32,no-resolve
 IP-CIDR,203.198.80.99/32,no-resolve
 
 # LINE TV
-DOMAIN-SUFFIX,linetv.tw
+# DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 
