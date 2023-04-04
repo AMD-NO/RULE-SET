@@ -1,7 +1,7 @@
-# > Eurosport
+# Eurosport
 DOMAIN-KEYWORD,eurosport
 DOMAIN,eu3-prod.disco-api.com
 DOMAIN,eu3-prod-images.disco-api.com
 DOMAIN,europe-fastly-mediashield-live-prod.cdn.h264.io
-// DOMAIN,eurosport-live-prod.akamai.prod-live.h264.io
-// DOMAIN,eurosport-vod.akamai.prod-live.h264.io
+# DOMAIN,eurosport-live-prod.akamai.prod-live.h264.io
+# DOMAIN,eurosport-vod.akamai.prod-live.h264.io
