@@ -1,17 +1,17 @@
 payload:
-# > General
+  # Unbreak
   - DOMAIN,app.adjust.com
   - DOMAIN-SUFFIX,flyert.com
   - DOMAIN-SUFFIX,snapdrop.net
 
-# > Google
+  # Google
   - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl.l.google.com
   - DOMAIN,update.googleapis.com
 
-# > Tencent
+  # Tencent
   - DOMAIN,fairplay.l.qq.com
   - DOMAIN,livew.l.qq.com
   - DOMAIN,vd.l.qq.com
@@ -20,12 +20,12 @@ payload:
   - IP-CIDR,203.205.238.0/23,no-resolve
   - IP-CIDR,203.205.254.0/23,no-resolve
 
-# > Outlook
+  # Outlook
   - DOMAIN,outlook.office365.com
   - DOMAIN,smtp-mail.outlook.com
   - DOMAIN,smtp.office365.com
 
-# > Windows Server Update Services
+  # Windows Server Update Services
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,windowsupdate.microsoft.com
@@ -34,25 +34,22 @@ payload:
   - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,dl.delivery.mp.microsoft.com
 
-# > Paramount+ Ads 屏蔽会导致部分视频无法播放
+  # Paramount+ Ads 屏蔽会导致部分视频无法播放
   - DOMAIN,pubads.g.doubleclick.net
 
-# > Bahamut 播放域名
-  - DOMAIN,bahamut.akamaized.net
+  # Bahamut 播放域名
+  # DOMAIN,bahamut.akamaized.net
 
-# > NBA League Pass 播放域名
-  - DOMAIN,nbalpng.akamaized.net
+  # NBA League Pass 播放域名
+  # DOMAIN,nbalpng.akamaized.net
 
-# > HBO GO 播放域名
-  - DOMAIN,hbogoprod-vod.akamaized.net
-  - DOMAIN,hboasialive.akamaized.net
+  # HBO GO 播放域名
+  # DOMAIN,hbogoprod-vod.akamaized.net
+  # DOMAIN,hboasialive.akamaized.net
 
-# > Setanta 直播域名 回放域名
-  - DOMAIN,dice-live-eu.akamaized.net
-  - DOMAIN,dve-streams.akamaized.net
+  # Setanta 直播域名 回放域名
+  # DOMAIN,dice-live-eu.akamaized.net
+  # DOMAIN,dve-streams.akamaized.net
 
-# > Disney+ Star+ 首页海报
-  # DOMAIN,prod-ripcut-delivery.disney-plus.net
-
-# > infomaniak 邮箱域名
+  # infomaniak 邮箱域名
   - DOMAIN-SUFFIX,mail.infomaniak.com
