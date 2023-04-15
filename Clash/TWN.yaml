@@ -8,7 +8,7 @@ payload:
 
   # CATCHPLAY+
   - DOMAIN-SUFFIX,catchplay.com
-  - DOMAIN-KEYWORD,-cp.akamaized.net
+  - DOMAIN-KEYWORD,00-cp.akamaized.net
   - DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
   # friDay
