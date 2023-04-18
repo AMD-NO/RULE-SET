@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,disco-api.com
 # DOMAIN,us1-prod.disco-api.com
 # DOMAIN,us1-prod-images.disco-api.com
 DOMAIN-SUFFIX,dnitv.com
-DOMAIN,dplus-us-gcs-prod-vod.akamaized.net
 DOMAIN-KEYWORD,dplus-northamerica
+DOMAIN-KEYWORD,dplus-us
 
 # ESPN
 DOMAIN-SUFFIX,espn.com
@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,huluim.com
-# DOMAIN,assetshuluimcom-a.akamaihd.net
+DOMAIN,assetshuluimcom-a.akamaihd.net
 
 # PBS
 DOMAIN-SUFFIX,pbs.org
@@ -59,5 +59,4 @@ DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
 
 # Star+
-# 此条分流只是让 Star+ 串流时走 US 节点，需搭配 Star+ 相关分流使用
 DOMAIN-SUFFIX,media.starott.com
