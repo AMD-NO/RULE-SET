@@ -24,13 +24,13 @@ DOMAIN-SUFFIX,hjholdings.tv
 
 # TVer
 # DOMAIN-SUFFIX,tver.jp
-DOMAIN-SUFFIX,prod.boltdns.net
-DOMAIN,metrics.brightcove.com
-DOMAIN,edge.api.brightcove.com
 
 # U-NEXT
 # DOMAIN-SUFFIX,unext.jp
 # DOMAIN-SUFFIX,nxtv.jp
+
+# WOWOW
+# DOMAIN-SUFFIX,wowow.co.jp
 
 # Japan
 # DOMAIN-SUFFIX,co.jp
