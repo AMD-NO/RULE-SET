@@ -5,12 +5,12 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,pv-cdn.net
-  # DOMAIN,atv-ps.amazon.com
-  # DOMAIN,fls-na.amazon.com
   - DOMAIN,dmqdd6hw24ucf.cloudfront.net
+  - DOMAIN,doh6p23r7m48u.cloudfront.net
+  - DOMAIN,d7c0vsu6v5lxu.cloudfront.net
+  - DOMAIN,dwh3fwb0y09j6.cloudfront.net
   - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
   - DOMAIN,d22qjgkvxw22r6.cloudfront.net
-  - DOMAIN,d25xi40x97liuc.cloudfront.net
-  - DOMAIN,d27xxe7juh1us6.cloudfront.net
+  - DOMAIN,d1xfray82862hr.cloudfront.net
   - DOMAIN-KEYWORD,s3ww-a.akamaihd.net
   - DOMAIN-KEYWORD,aivott
