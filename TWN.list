@@ -2,16 +2,15 @@
 # DOMAIN-SUFFIX,bahamut.com.tw
 # DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN,bahamut.akamaized.net
-# DOMAIN,gamer-cds.cdn.hinet.net
-# DOMAIN,gamer2-cds.cdn.hinet.net
 
-# CATCHPLAY+
+# Catchplay+
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN-KEYWORD,00-cp.akamaized.net
 DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
 # friDay
 # DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,fetnet.net
 DOMAIN-SUFFIX,fridaylogger.com
 DOMAIN-SUFFIX,litv.tv
 DOMAIN,aka02p.akamaized.net
@@ -29,9 +28,7 @@ DOMAIN-KEYWORD,hboasia
 DOMAIN,dai3fd1oh325y.cloudfront.net
 DOMAIN,d5hpy42637ggu.cloudfront.net
 DOMAIN,hbolb.onwardsmg.com
-DOMAIN,hbounify-prod.evergent.com
-DOMAIN,bcbolthboa-a.akamaihd.net
-DOMAIN,hboasialive.akamaized.net
+# DOMAIN,hboasialive.akamaized.net
 DOMAIN,hbogoprod-vod.akamaized.net
 
 # KKBOX
@@ -64,9 +61,8 @@ IP-CIDR,159.138.102.146/32,no-resolve
 IP-CIDR,203.80.97.208/32,no-resolve
 IP-CIDR,203.198.80.99/32,no-resolve
 
-# LINE TV
+# Line TV
 # DOMAIN-SUFFIX,linetv.tw
-DOMAIN-SUFFIX,line-scdn.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 
 # myVideo
