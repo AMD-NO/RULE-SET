@@ -2,16 +2,4 @@
 DOMAIN-SUFFIX,tv.team
 DOMAIN-SUFFIX,troya.tv
 DOMAIN-SUFFIX,troya.tg
-
-# Canal+ FR
-DOMAIN-KEYWORD,canalplus.akamaized.net
-
-# TSN CA
-DOMAIN-SUFFIX,9c9media.ca
-
-# V Nordic
-DOMAIN-SUFFIX,cdn.viaplay.tv
-
-# Ziggo NL
-DOMAIN-SUFFIX,cdn.dmdsdp.com
-DOMAIN-SUFFIX,cdn.upcbroadband.com
+DOMAIN-SUFFIX,troya.today
