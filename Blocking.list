@@ -10,6 +10,8 @@ DOMAIN,app-measurement.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,iad-01.braze.com
 DOMAIN-SUFFIX,iad-03.braze.com
+DOMAIN-SUFFIX,iad-06.braze.com
+DOMAIN-SUFFIX,appsflyer.com
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
 
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
