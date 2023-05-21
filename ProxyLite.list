@@ -26,10 +26,6 @@ DOMAIN-SUFFIX,authy.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN,http-inputs-notion.splunkcloud.com
 
-# SofaScore
-DOMAIN-SUFFIX,sofascore.com
-DOMAIN-SUFFIX,sofascore.app
-
 # Amazon
 DOMAIN-SUFFIX,amazon.com
 # DOMAIN-SUFFIX,amazon.co.jp
