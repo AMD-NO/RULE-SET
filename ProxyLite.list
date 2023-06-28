@@ -28,10 +28,11 @@ DOMAIN,http-inputs-notion.splunkcloud.com
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,a2z.com
 # DOMAIN-SUFFIX,amazon.co.jp
 # DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-KEYWORD,-amazon.com
+DOMAIN-KEYWORD,amazon.com
 # DOMAIN-SUFFIX,cloudfront.net
 IP-ASN,14618
 IP-ASN,16509
