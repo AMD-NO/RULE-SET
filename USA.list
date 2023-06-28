@@ -1,6 +1,5 @@
 # Crunchyroll
 DOMAIN-SUFFIX,crunchyroll.com
-DOMAIN-SUFFIX,gccrunchyroll.com
 DOMAIN-SUFFIX,vrv.co
 
 # Discovery+ US
@@ -19,17 +18,15 @@ DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,watchespn.com
 
-# HBO Max
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
-
 # Hulu
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN,assetshuluimcom-a.akamaihd.net
+
+# Max
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,discomax.com
 
 # PBS
 DOMAIN-SUFFIX,pbs.org
