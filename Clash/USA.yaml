@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,disco-api.com
   # DOMAIN,us1-prod.disco-api.com
   # DOMAIN,us1-prod-images.disco-api.com
-  - DOMAIN-SUFFIX,dnitv.com
   - DOMAIN-KEYWORD,dplus-northamerica
   - DOMAIN-KEYWORD,dplus-us
 
