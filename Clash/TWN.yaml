@@ -14,9 +14,9 @@ payload:
   - DOMAIN-SUFFIX,fetnet.net
   - DOMAIN-SUFFIX,fridaylogger.com
   - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN,aka01p.akamaized.net
   - DOMAIN,aka02p.akamaized.net
   - DOMAIN,aka03p.akamaized.net
-  - DOMAIN,aka10p.akamaized.net
 
   # HamiVideo
   - DOMAIN-SUFFIX,hinet.net
@@ -54,13 +54,6 @@ payload:
   # DOMAIN-SUFFIX,inter.ptqy.gitv.tv
   - DOMAIN-KEYWORD,akmcdnoversea
   - DOMAIN-KEYWORD,chuangcachecdnoversea
-  - IP-CIDR,23.40.241.251/32,no-resolve
-  - IP-CIDR,23.40.242.10/32,no-resolve
-  - IP-CIDR,110.238.107.47/32,no-resolve
-  - IP-CIDR,118.26.32.162/32,no-resolve
-  - IP-CIDR,159.138.102.146/32,no-resolve
-  - IP-CIDR,203.80.97.208/32,no-resolve
-  - IP-CIDR,203.198.80.99/32,no-resolve
 
   # Line TV
   # DOMAIN-SUFFIX,linetv.tw
