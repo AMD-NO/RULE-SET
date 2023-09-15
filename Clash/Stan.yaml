@@ -13,3 +13,7 @@ payload:
   # Australia
   # DOMAIN-SUFFIX,com.au
   - DOMAIN-SUFFIX,au
+  
+  # TVNZ
+  - DOMAIN-SUFFIX,tvnz.co.nz
+  - DOMAIN-SUFFIX,tvnz.io
