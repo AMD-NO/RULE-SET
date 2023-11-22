@@ -26,6 +26,7 @@ DOMAIN,assetshuluimcom-a.akamaihd.net
 # Max
 DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,media.h264.io
 
 # PBS
 DOMAIN-SUFFIX,pbs.org
@@ -53,6 +54,9 @@ DOMAIN-SUFFIX,peacocktv.com
 # Roku
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
+
+# Spectrum
+DOMAIN-SUFFIX,spectrum.com
 
 # Star+
 DOMAIN-SUFFIX,media.starott.com
