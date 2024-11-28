@@ -3,7 +3,7 @@
 # DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN,bahamut.akamaized.net
 
-# Catchplay+
+# CatchPlay+
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN-KEYWORD,00-cp.akamaized.net
 DOMAIN,dkfhw9rzsr80z.cloudfront.net
@@ -19,17 +19,6 @@ DOMAIN,aka03p.akamaized.net
 
 # HamiVideo
 DOMAIN-SUFFIX,hinet.net
-
-# HBO GO
-# DOMAIN-SUFFIX,hbogoasia.com
-# DOMAIN-SUFFIX,hbogoasia.tw
-DOMAIN-KEYWORD,hbogoasia
-DOMAIN-KEYWORD,hboasia
-DOMAIN,dai3fd1oh325y.cloudfront.net
-DOMAIN,d5hpy42637ggu.cloudfront.net
-DOMAIN,hbolb.onwardsmg.com
-# DOMAIN,hboasialive.akamaized.net
-DOMAIN,hbogoprod-vod.akamaized.net
 
 # KKBOX
 DOMAIN-SUFFIX,kkbox.com
