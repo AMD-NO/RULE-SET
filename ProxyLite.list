@@ -13,12 +13,6 @@ DOMAIN-SUFFIX,pximg.net
 # V2EX
 DOMAIN-SUFFIX,v2ex.com
 
-# Adobe
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,newrelic.com
-DOMAIN-SUFFIX,omtrdc.net
-
 # Authy
 DOMAIN-SUFFIX,authy.com
 
