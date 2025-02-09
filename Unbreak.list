@@ -5,6 +5,9 @@ DOMAIN,mail.infomaniak.com
 # Paramount+ Ads 屏蔽会导致部分视频无法播放
 DOMAIN,pubads.g.doubleclick.net
 
+# SYN 强制直连域名
+DOMAIN,clip.makima.online
+
 # Bahamut 播放域名
 # DOMAIN,bahamut.akamaized.net
 
