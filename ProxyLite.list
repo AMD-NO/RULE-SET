@@ -1,9 +1,32 @@
+# Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+# ChatGPT
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN,o33249.ingest.sentry.io
+
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN,pplx-res.cloudinary.com
+
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubcopilot.com
 
 # Pinterest
 DOMAIN-SUFFIX,pinimg.com
@@ -22,10 +45,11 @@ DOMAIN-SUFFIX,authy.com
 
 # Notion
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN,http-inputs-notion.splunkcloud.com
 
 # Amazon
-DOMAIN-SUFFIX,amazon.com
+# DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,a2z.com
 # DOMAIN-SUFFIX,amazon.co.jp
 # DOMAIN-SUFFIX,amazon.co.uk
@@ -36,12 +60,6 @@ DOMAIN-KEYWORD,amazon.com
 # bet365
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,365lpodds.com
-
-# TIDAL
-DOMAIN-SUFFIX,tidal.com
-
-# Quantumult X
-DOMAIN-SUFFIX,quantumult.app
 
 # Reddit
 DOMAIN-SUFFIX,redd.it
