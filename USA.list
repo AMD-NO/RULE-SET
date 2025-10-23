@@ -50,5 +50,7 @@ DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
 
-# Spectrum
-DOMAIN-SUFFIX,spectrum.com
+# Tennis Channel
+DOMAIN-SUFFIX,tennischannel.com
+# DOMAIN,spottvod.akamaized.net
+DOMAIN,spotttchus.akamaized.net
