@@ -1,5 +1,6 @@
 # Claude
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,anthropic.com
 
 # ChatGPT
@@ -9,7 +10,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN,o33249.ingest.sentry.io
+# DOMAIN,o33249.ingest.sentry.io
+# DOMAIN,o33249.ingest.us.sentry.io
+DOMAIN-KEYWORD,o33249.ingest
 
 # Grok
 DOMAIN-SUFFIX,grok.com
