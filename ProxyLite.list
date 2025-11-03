@@ -1,6 +1,7 @@
 # Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,anthropic.com
 
 # ChatGPT
@@ -20,6 +21,7 @@ DOMAIN-SUFFIX,x.ai
 
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN,pplx-res.cloudinary.com
 
