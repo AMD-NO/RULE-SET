@@ -46,7 +46,13 @@ DOMAIN-SUFFIX,atm.youku.com
 DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN-SUFFIX,uve.weibo.com
 DOMAIN,ads-video-al.xhscdn.com
+DOMAIN,ads-img-al.xhscdn.com
+DOMAIN,ads-img-bak.xhscdn.com
+DOMAIN,ads-vp5.xhscdn.com
 DOMAIN,sugar.zhihu.com
+DOMAIN-SUFFIX,shenshiads.com
+DOMAIN,ad.us.sinaimg.cn
+DOMAIN-KEYWORD,guanggao-prod
 
 DOMAIN-SUFFIX,giocdn.com
 DOMAIN-SUFFIX,growingio.com
