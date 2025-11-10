@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,oaiusercontent.com
 # DOMAIN,o33249.ingest.sentry.io
 # DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN-KEYWORD,o33249.ingest
+DOMAIN-KEYWORD,openaiapi
+DOMAIN-KEYWORD,openaicom
 
 # Grok
 DOMAIN-SUFFIX,grok.com
