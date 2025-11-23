@@ -16,7 +16,15 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
 DOMAIN-SUFFIX,disneyadvertising.com
 DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,supersonic.com
+DOMAIN-SUFFIX,supersonicads.com
+DOMAIN-SUFFIX,vungle.com
 
+DOMAIN-SUFFIX,pangle.io
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk
 DOMAIN-KEYWORD,video-cn.snssdk
