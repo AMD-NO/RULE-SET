@@ -23,12 +23,15 @@ DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,mtgglobals.com
+DOMAIN-KEYWORD,ads.unity3d.com
 
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk
 DOMAIN-KEYWORD,video-cn.snssdk
 DOMAIN-KEYWORD,pglstatp-toutiao
+DOMAIN-KEYWORD,pglstatp.com
 DOMAIN,open.e.kuaishou.com
 DOMAIN,api.touch-moblie.com
 DOMAIN-SUFFIX,miaozhen.com
